@@ -1,0 +1,19 @@
+{
+    "name": "4thyearprojectdata",
+    "version": "1.0.0",
+    "description": "My 4th year project.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lukecheeseman1/4thYearProjectData.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/lukecheeseman1/4thYearProjectData/issues"
+    },
+    "homepage": "https://github.com/lukecheeseman1/4thYearProjectData#readme"
+}
